@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-white">
+<nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm rounded">
     <div class="container">
         <a class="navbar-brand" href="/"><img src="{{ asset('assets/images/logo.png') }}" alt=""></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -10,22 +10,22 @@
                     <a class="nav-link" href="/">Beranda</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/tentang">Tentang</a>
+                    <a class="nav-link" href="/tentang">Tentang Kami</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/NFT">Hidroponik NFT</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/spk">SPK</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/layanan">Layanan</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/dft">Deep Flow Technique</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/analisis">Analisis</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" href="/kontak">Kontak</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/dokumentasi">Dokumentasi</a>
+                    <a class="nav-link" href="/galeri">Galeri</a>
                 </li>
             </ul>
         </div>

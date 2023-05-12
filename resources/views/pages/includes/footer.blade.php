@@ -1,4 +1,4 @@
-    <footer class="mt-5">
+    <footer class="mt-0">
         <div class="container">
             <div class="row">
                 <div class="col-sm-4">
@@ -16,12 +16,12 @@
                     <h3>Menu</h3>
                     <div class="menu">
                         <a href="/">Beranda</a>
-                        <a href="/tentang">Tentang</a>
+                        <a href="/tentang">Tentang Kami</a>
+                        <a href="/nft">Hidroponik NFT</a>
+                        <a href="/spk">SPK</a>
                         <a href="/layanan">Layanan</a>
-                        <a href="/dft">Deep Flow Technique</a>
-                        <a href="/analisis">Analisis</a>
                         <a href="/kontak">Kontak</a>
-                        <a href="/dokumentasi">Dokumentasi</a>
+                        <a href="/galeri">Galeri</a>
                     </div>
                 </div>
                 <div class="col-sm-4">
