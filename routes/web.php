@@ -37,6 +37,6 @@ Route::get('/kontak', function () {
     return view('pages.kontak');
 });
 
-Route::get('/dokumentasi', function () {
-    return view('pages.dokumentasi');
+Route::get('/galeri', function () {
+    return view('pages.galeri');
 });

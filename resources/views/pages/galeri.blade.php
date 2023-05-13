@@ -1,8 +1,8 @@
 @extends('pages.master')
 
 @section('content')
-    <section class="dft">
-        <h2 class="text-center header-page mt-3 container">DOKUMENTASI</h2>
+    <section class="galeri mb-5">
+        <h2 class="text-center header-page mt-3 container">GALERI</h2>
             <div class="container">
                 <div class="row mt-5 d-flex justify-content-between">
                     <div class="col-sm-12">
