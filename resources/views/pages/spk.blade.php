@@ -2,7 +2,7 @@
 
 @section('content')
     <section class="analisis">
-        <h2 class="text-center header-page mt-3 container">ANALISIS</h2>
+        <h2 class="text-center header-page mt-3 container">SPK</h2>
             <div class="container">
                 <form>
                     <div class="row mt-5 d-flex justify-content-between">

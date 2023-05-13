@@ -29,8 +29,8 @@ Route::get('/nft', function () {
     return view('pages.nft');
 });
 
-Route::get('/analisis', function () {
-    return view('pages.analisis');
+Route::get('/spk', function () {
+    return view('pages.spk');
 });
 
 Route::get('/kontak', function () {
