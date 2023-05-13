@@ -1,6 +1,7 @@
 body {
     font-family: "Poppins", sans-serif;
     color: #282828;
+    overflow-x: hidden;
 }
 
 nav {
@@ -25,6 +26,7 @@ nav .navbar-collapse ul li:last-child {
 .header-page {
     font-weight: 700;
     font-size: 40px;
+    color: #048245;
 }
 
 footer {
@@ -101,6 +103,7 @@ footer .menu a:hover {
 .tentang h4 {
     font-weight: 700;
     font-size: 32px;
+    color: #048245;
 }
 
 .tentang p {
@@ -109,8 +112,47 @@ footer .menu a:hover {
     text-align: justify;
 }
 
+.tentang .visimisi {
+    background-color: #048245;
+    margin-top: 180px;
+    margin-bottom: 130px;
+    padding: 80px 0px;
+}
+
+.tentang .visimisi img {
+    margin-top: 40px;
+}
+
+.tentang .visimisi p {
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 20px;
+    width: 780px;
+}
+
+.tentang .fokusbisnisproduk {
+    margin-bottom: 130px;
+}
+
+.tentang .fokusbisnisproduk h5 {
+    font-weight: 700;
+    font-size: 24px;
+    color: #048245;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+.tentang .fokusbisnisproduk .card-fokus-bisnis {
+    background-color: #048245;
+    width: 410px;
+    height: 218px;
+    padding: 30px 50px;
+    color: white;
+}
+
 .tentang .pencapaian {
-    background-color: #282828;
+    background-color: #048245;
 }
 
 .tentang .pencapaian .box-pencapaian {
@@ -122,6 +164,7 @@ footer .menu a:hover {
 .tentang .pencapaian .box-pencapaian h5 {
     font-weight: 700;
     font-size: 24px;
+    color: #048245;
 }
 
 .tentang .pencapaian .box-pencapaian p {
@@ -137,6 +180,15 @@ footer .menu a:hover {
 .tentang .founder .list {
     width: 42px;
     height: 18px;
+}
+
+.tentang .mitra {
+    margin-bottom: 130px;
+}
+
+.tentang .mitra p {
+    font-weight: 400;
+    font-size: 24px;
 }
 
 .layanan .icon-text {
