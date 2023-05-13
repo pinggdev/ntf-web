@@ -1,7 +1,7 @@
 @extends('pages.master')
 
 @section('content')
-    <section class="dft">
+    <section class="kontak mb-5">
         <h2 class="text-center header-page mt-3 container">KONTAK</h2>
             <div class="container">
                 <div class="row mt-5 d-flex justify-content-between">
