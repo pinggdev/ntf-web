@@ -13,7 +13,7 @@
                     <a class="nav-link" href="/tentang">Tentang Kami</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/NFT">Hidroponik NFT</a>
+                    <a class="nav-link" href="/nft">Hidroponik NFT</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/spk">SPK</a>
