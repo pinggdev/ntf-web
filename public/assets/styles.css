@@ -67,6 +67,7 @@ footer .menu a:hover {
     background-image: url("images/beranda.png");
     margin-top: -128px;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .beranda .jumbo h1 {
